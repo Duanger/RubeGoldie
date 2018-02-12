@@ -5,7 +5,7 @@ using UnityEngine;
 public class BrainBehaviour : MonoBehaviour
 {
 
-	public AudioSource brainSplooge;
+	public AudioSource AudioEffect;
 	void Start ()
 	{
 	}
@@ -17,6 +17,15 @@ public class BrainBehaviour : MonoBehaviour
 
 	private void OnCollisionEnter(Collision other)
 	{
-		brainSplooge.PlayOneShot(brainSplooge.clip);
+		if (gameObject.tag == "Brain")
+		{
+			AudioEffect.PlayOneShot(AudioEffect.clip);
+		}
+		if (other.collider.tag == "Dildo" || other.collider.tag == "Ball")
+		{
+			AudioEffect.PlayOneShot(AudioEffect.clip);
+		}
+		
+
 	}
 }
