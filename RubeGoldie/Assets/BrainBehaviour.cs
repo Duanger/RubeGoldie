@@ -6,8 +6,13 @@ public class BrainBehaviour : MonoBehaviour
 {
 
 	public AudioSource AudioEffect;
+
+	public Rigidbody[] gravityObjects;
+	public GameObject trigger;
+	private triggerBehave trigBe;
 	void Start ()
 	{
+		trigBe = trigger.GetComponent<triggerBehave>();
 	}
 	
 	// Update is called once per frame
@@ -20,9 +25,17 @@ public class BrainBehaviour : MonoBehaviour
 		if (gameObject.tag == "Brain")
 		{
 			AudioEffect.PlayOneShot(AudioEffect.clip);
+			if (trigBe.isEntered && other.collider.tag == "Ball")
+			{
+				for (int i = 0; i < gravityObjects.Length; i++)
+				{
+					gravityObjects[i].useGravity = true;
+				}
+			}
 		}
 		if (other.collider.tag == "Dildo" || other.collider.tag == "Ball")
 		{
+			trigger = null;
 			AudioEffect.PlayOneShot(AudioEffect.clip);
 		}
 		
