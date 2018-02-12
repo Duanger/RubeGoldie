@@ -27,6 +27,8 @@ public class BrainBehaviour : MonoBehaviour
 			AudioEffect.PlayOneShot(AudioEffect.clip);
 			if (trigBe.isEntered && other.collider.tag == "Ball")
 			{
+				GameObject.FindWithTag("Camera2").SetActive(true);
+				GameObject.FindWithTag("Camera1").SetActive(false);
 				for (int i = 0; i < gravityObjects.Length; i++)
 				{
 					gravityObjects[i].useGravity = true;

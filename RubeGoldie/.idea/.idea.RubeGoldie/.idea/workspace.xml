@@ -11,21 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="BrainBehaviour.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BrainBehaviour.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/BrainBehaviour.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="23" column="5" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="221">
+              <caret line="30" column="67" lean-forward="false" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
               <folding>
-                <marker date="1518470366361" expanded="false" signature="6:78" ph="..." />
-                <marker date="1518470366361" expanded="true" signature="123:851" ph="{...}" />
-                <marker date="1518470366361" expanded="true" signature="270:326" ph="{...}" />
-                <marker date="1518470366361" expanded="true" signature="381:388" ph="{...}" />
-                <marker date="1518470366361" expanded="true" signature="437:849" ph="{...}" />
-                <marker date="1518470366361" expanded="true" signature="473:700" ph="{...}" />
-                <marker date="1518470366361" expanded="true" signature="580:696" ph="{...}" />
-                <marker date="1518470366361" expanded="true" signature="637:691" ph="{...}" />
-                <marker date="1518470366361" expanded="true" signature="769:842" ph="{...}" />
+                <marker date="1518478669212" expanded="false" signature="6:78" ph="..." />
+                <marker date="1518478669212" expanded="true" signature="123:962" ph="{...}" />
+                <marker date="1518478669212" expanded="true" signature="270:326" ph="{...}" />
+                <marker date="1518478669212" expanded="true" signature="381:388" ph="{...}" />
+                <marker date="1518478669212" expanded="true" signature="437:960" ph="{...}" />
+                <marker date="1518478669212" expanded="true" signature="473:811" ph="{...}" />
+                <marker date="1518478669212" expanded="true" signature="580:807" ph="{...}" />
+                <marker date="1518478669212" expanded="true" signature="748:802" ph="{...}" />
+                <marker date="1518478669212" expanded="true" signature="880:953" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -65,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PoopBehave.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PoopBehave.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PoopBehave.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -81,18 +81,36 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="CameraBehave.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CameraBehave.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <marker date="1518478585659" expanded="false" signature="6:78" ph="..." />
+                <marker date="1518478585659" expanded="true" signature="121:711" ph="{...}" />
+                <marker date="1518478585659" expanded="true" signature="199:367" ph="{...}" />
+                <marker date="1518478585659" expanded="true" signature="324:364" ph="{...}" />
+                <marker date="1518478585659" expanded="true" signature="421:709" ph="{...}" />
+                <marker date="1518478585659" expanded="true" signature="462:520" ph="{...}" />
+                <marker date="1518478585659" expanded="true" signature="556:706" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="UIText.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/UIText.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            <state relative-caret-position="333">
+              <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
               <folding>
-                <marker date="1518472100611" expanded="true" signature="6:113" ph="..." />
-                <marker date="1518472100611" expanded="true" signature="150:457" ph="{...}" />
-                <marker date="1518472100611" expanded="true" signature="232:239" ph="{...}" />
-                <marker date="1518472100611" expanded="true" signature="294:301" ph="{...}" />
-                <marker date="1518472100611" expanded="true" signature="327:396" ph="{...}" />
-                <marker date="1518472100611" expanded="true" signature="420:455" ph="{...}" />
+                <marker date="1518477219450" expanded="false" signature="6:113" ph="..." />
+                <marker date="1518477219450" expanded="true" signature="150:645" ph="{...}" />
+                <marker date="1518477219450" expanded="true" signature="259:333" ph="{...}" />
+                <marker date="1518477219450" expanded="true" signature="388:395" ph="{...}" />
+                <marker date="1518477219450" expanded="true" signature="421:584" ph="{...}" />
+                <marker date="1518477219450" expanded="true" signature="608:643" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -123,6 +141,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/UIText.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/triggerBehave.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/funnelBehave.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CameraBehave.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -130,10 +149,11 @@
         <option value="$PROJECT_DIR$/Assets/hingeBehave.cs" />
         <option value="$PROJECT_DIR$/Assets/funnelBehave.cs" />
         <option value="$PROJECT_DIR$/Assets/triggerBehave.cs" />
-        <option value="$PROJECT_DIR$/Assets/BrainBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/catapultBheave.cs" />
-        <option value="$PROJECT_DIR$/Assets/UIText.cs" />
         <option value="$PROJECT_DIR$/Assets/PoopBehave.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIText.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraBehave.cs" />
+        <option value="$PROJECT_DIR$/Assets/BrainBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -143,9 +163,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="124" />
-    <option name="y" value="409" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="29" />
+    <option name="y" value="165" />
     <option name="width" value="1440" />
     <option name="height" value="774" />
   </component>
@@ -217,11 +237,12 @@
       <workItem from="1518420034654" duration="787000" />
       <workItem from="1518423754303" duration="452000" />
       <workItem from="1518469133502" duration="3697000" />
+      <workItem from="1518474779464" duration="3889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6387000" />
+    <option name="totallyTimeSpent" value="10276000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -233,7 +254,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="29" y="165" width="1440" height="774" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -243,7 +265,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18489583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964838" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -271,99 +293,18 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/BrainBehaviour.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="399">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
           <folding>
-            <marker date="1518470366361" expanded="false" signature="6:78" ph="..." />
-            <marker date="1518470366361" expanded="true" signature="123:851" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="270:326" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="381:388" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="437:849" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="473:700" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="580:696" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="637:691" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="769:842" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/funnelBehave.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <marker date="1518423125997" expanded="false" signature="6:78" ph="..." />
-            <marker date="1518423125997" expanded="true" signature="121:361" ph="{...}" />
-            <marker date="1518423125997" expanded="true" signature="205:212" ph="{...}" />
-            <marker date="1518423125997" expanded="true" signature="267:274" ph="{...}" />
-            <marker date="1518423125997" expanded="true" signature="320:359" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/BrainBehaviour.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="50" lean-forward="false" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-          <folding>
-            <marker date="1518470366361" expanded="false" signature="6:78" ph="..." />
-            <marker date="1518470366361" expanded="true" signature="123:851" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="270:326" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="381:388" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="437:849" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="473:700" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="580:696" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="637:691" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="769:842" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/funnelBehave.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <marker date="1518423125997" expanded="false" signature="6:78" ph="..." />
-            <marker date="1518423125997" expanded="true" signature="121:361" ph="{...}" />
-            <marker date="1518423125997" expanded="true" signature="205:212" ph="{...}" />
-            <marker date="1518423125997" expanded="true" signature="267:274" ph="{...}" />
-            <marker date="1518423125997" expanded="true" signature="320:359" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/BrainBehaviour.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1518470366361" expanded="false" signature="6:78" ph="..." />
-            <marker date="1518470366361" expanded="true" signature="123:851" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="270:326" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="381:388" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="437:849" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="473:700" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="580:696" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="637:691" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="769:842" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/hingeBehave.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/hingeBehave.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/hingeBehave.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/funnelBehave.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <marker date="1518423125997" expanded="false" signature="6:78" ph="..." />
-            <marker date="1518423125997" expanded="true" signature="121:361" ph="{...}" />
-            <marker date="1518423125997" expanded="true" signature="205:212" ph="{...}" />
-            <marker date="1518423125997" expanded="true" signature="267:274" ph="{...}" />
-            <marker date="1518423125997" expanded="true" signature="320:359" ph="{...}" />
+            <marker date="1518478669212" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518478669212" expanded="true" signature="123:962" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="270:326" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="381:388" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="437:960" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="473:811" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="580:807" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="748:802" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="880:953" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -379,24 +320,6 @@
             <marker date="1518469611818" expanded="true" signature="227:234" ph="{...}" />
             <marker date="1518469611818" expanded="true" signature="280:343" ph="{...}" />
             <marker date="1518469611818" expanded="true" signature="311:340" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/BrainBehaviour.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <marker date="1518470366361" expanded="false" signature="6:78" ph="..." />
-            <marker date="1518470366361" expanded="true" signature="123:851" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="270:326" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="381:388" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="437:849" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="473:700" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="580:696" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="637:691" ph="{...}" />
-            <marker date="1518470366361" expanded="true" signature="769:842" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -421,12 +344,26 @@
         <state relative-caret-position="437">
           <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
           <folding>
-            <marker date="1518472100611" expanded="true" signature="6:113" ph="..." />
-            <marker date="1518472100611" expanded="true" signature="150:457" ph="{...}" />
-            <marker date="1518472100611" expanded="true" signature="232:239" ph="{...}" />
-            <marker date="1518472100611" expanded="true" signature="294:301" ph="{...}" />
-            <marker date="1518472100611" expanded="true" signature="327:396" ph="{...}" />
-            <marker date="1518472100611" expanded="true" signature="420:455" ph="{...}" />
+            <marker date="1518477219450" expanded="false" signature="6:113" ph="..." />
+            <marker date="1518477219450" expanded="true" signature="150:645" ph="{...}" />
+            <marker date="1518477219450" expanded="true" signature="259:333" ph="{...}" />
+            <marker date="1518477219450" expanded="true" signature="388:395" ph="{...}" />
+            <marker date="1518477219450" expanded="true" signature="421:584" ph="{...}" />
+            <marker date="1518477219450" expanded="true" signature="608:643" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/funnelBehave.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1518423125997" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518423125997" expanded="true" signature="121:361" ph="{...}" />
+            <marker date="1518423125997" expanded="true" signature="205:212" ph="{...}" />
+            <marker date="1518423125997" expanded="true" signature="267:274" ph="{...}" />
+            <marker date="1518423125997" expanded="true" signature="320:359" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -441,6 +378,198 @@
             <marker date="1518472478045" expanded="true" signature="165:199" ph="{...}" />
             <marker date="1518472478045" expanded="true" signature="221:296" ph="{...}" />
             <marker date="1518472478045" expanded="true" signature="257:293" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/BrainBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1518478669212" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518478669212" expanded="true" signature="123:962" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="270:326" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="381:388" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="437:960" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="473:811" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="580:807" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="748:802" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="880:953" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/funnelBehave.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1518423125997" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518423125997" expanded="true" signature="121:361" ph="{...}" />
+            <marker date="1518423125997" expanded="true" signature="205:212" ph="{...}" />
+            <marker date="1518423125997" expanded="true" signature="267:274" ph="{...}" />
+            <marker date="1518423125997" expanded="true" signature="320:359" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/BrainBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="50" lean-forward="false" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <marker date="1518478669212" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518478669212" expanded="true" signature="123:962" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="270:326" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="381:388" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="437:960" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="473:811" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="580:807" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="748:802" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="880:953" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/funnelBehave.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1518423125997" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518423125997" expanded="true" signature="121:361" ph="{...}" />
+            <marker date="1518423125997" expanded="true" signature="205:212" ph="{...}" />
+            <marker date="1518423125997" expanded="true" signature="267:274" ph="{...}" />
+            <marker date="1518423125997" expanded="true" signature="320:359" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/BrainBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1518478669212" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518478669212" expanded="true" signature="123:962" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="270:326" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="381:388" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="437:960" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="473:811" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="580:807" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="748:802" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="880:953" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/hingeBehave.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/hingeBehave.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/hingeBehave.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/funnelBehave.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1518423125997" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518423125997" expanded="true" signature="121:361" ph="{...}" />
+            <marker date="1518423125997" expanded="true" signature="205:212" ph="{...}" />
+            <marker date="1518423125997" expanded="true" signature="267:274" ph="{...}" />
+            <marker date="1518423125997" expanded="true" signature="320:359" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/catapultBheave.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <marker date="1518471498446" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518471498446" expanded="true" signature="123:394" ph="{...}" />
+            <marker date="1518471498446" expanded="true" signature="181:188" ph="{...}" />
+            <marker date="1518471498446" expanded="true" signature="243:250" ph="{...}" />
+            <marker date="1518471498446" expanded="true" signature="299:392" ph="{...}" />
+            <marker date="1518471498446" expanded="true" signature="339:389" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PoopBehave.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <marker date="1518472478045" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518472478045" expanded="true" signature="119:298" ph="{...}" />
+            <marker date="1518472478045" expanded="true" signature="165:199" ph="{...}" />
+            <marker date="1518472478045" expanded="true" signature="221:296" ph="{...}" />
+            <marker date="1518472478045" expanded="true" signature="257:293" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UIText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <marker date="1518477219450" expanded="false" signature="6:113" ph="..." />
+            <marker date="1518477219450" expanded="true" signature="150:645" ph="{...}" />
+            <marker date="1518477219450" expanded="true" signature="259:333" ph="{...}" />
+            <marker date="1518477219450" expanded="true" signature="388:395" ph="{...}" />
+            <marker date="1518477219450" expanded="true" signature="421:584" ph="{...}" />
+            <marker date="1518477219450" expanded="true" signature="608:643" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CameraBehave.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <marker date="1518478585659" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518478585659" expanded="true" signature="121:711" ph="{...}" />
+            <marker date="1518478585659" expanded="true" signature="199:367" ph="{...}" />
+            <marker date="1518478585659" expanded="true" signature="324:364" ph="{...}" />
+            <marker date="1518478585659" expanded="true" signature="421:709" ph="{...}" />
+            <marker date="1518478585659" expanded="true" signature="462:520" ph="{...}" />
+            <marker date="1518478585659" expanded="true" signature="556:706" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/triggerBehave.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <marker date="1518469611818" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518469611818" expanded="true" signature="122:345" ph="{...}" />
+            <marker date="1518469611818" expanded="true" signature="165:172" ph="{...}" />
+            <marker date="1518469611818" expanded="true" signature="227:234" ph="{...}" />
+            <marker date="1518469611818" expanded="true" signature="280:343" ph="{...}" />
+            <marker date="1518469611818" expanded="true" signature="311:340" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/BrainBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="30" column="67" lean-forward="false" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
+          <folding>
+            <marker date="1518478669212" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518478669212" expanded="true" signature="123:962" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="270:326" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="381:388" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="437:960" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="473:811" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="580:807" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="748:802" ph="{...}" />
+            <marker date="1518478669212" expanded="true" signature="880:953" ph="{...}" />
           </folding>
         </state>
       </provider>
