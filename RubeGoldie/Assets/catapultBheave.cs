@@ -6,8 +6,10 @@ public class catapultBheave : MonoBehaviour
 {
 
 	public Rigidbody catapultedRigidbody;
+	public GameObject cam4;
+	public GameObject cam5;
 	void Start () {
-		
+		cam5.SetActive(false);
 	}
 	
 	// Update is called once per frame
@@ -19,6 +21,8 @@ public class catapultBheave : MonoBehaviour
 	{
 		if (other.collider.tag == "Dildo")
 		{
+			cam5.SetActive(true);
+			cam4.SetActive(false);
 			catapultedRigidbody.useGravity = true;
 		}
 	}

@@ -9,6 +9,10 @@ TagManager:
   - Ball
   - Camera1
   - Camera2
+  - Trigger2
+  - Camera3
+  - cata
+  - Camera4
   layers:
   - Default
   - TransparentFX
